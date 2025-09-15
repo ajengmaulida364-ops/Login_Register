@@ -31,15 +31,21 @@ Didalam folder Lib terdapat 4 file yaitu:
 -   Input email & password
 -   Tombol login
 -   Link ke halaman registrasi
+<img width="1366" height="768" alt="Screenshot (793)" src="https://github.com/user-attachments/assets/d8d46133-8ac7-4ef9-9f23-1d6648fe77a8" />
 
 ### Register Page
 -   Input Full Name, Email, dan Password
 -   Tombol register
 -   Link kembali ke login
+<img width="1366" height="768" alt="Screenshot (791)" src="https://github.com/user-attachments/assets/7ca12ec8-ca40-4ab9-a508-46d7e566d146" />
+
+<img width="1366" height="768" alt="Screenshot (792)" src="https://github.com/user-attachments/assets/77dd10a2-7cb4-47c6-8929-293347b9eeca" />
 
 ### Home Page
 -   Menampilkan nama pengguna yang berhasil login\
 -   Tombol logout
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/830b9795-04ec-4590-af99-d86a3e9580b8" />
+
 
 
 ## Author
