@@ -31,6 +31,8 @@ Didalam folder Lib terdapat 4 file yaitu:
 -   Input email & password
 -   Tombol login
 -   Link ke halaman registrasi
+-   Jika belum mempunyai akun klik pada tombol Sign Up
+-   Kemudian akan dilemparkan ke Register Page
 <img width="1366" height="768" alt="Screenshot (793)" src="https://github.com/user-attachments/assets/d8d46133-8ac7-4ef9-9f23-1d6648fe77a8" />
 
 ### Register Page
